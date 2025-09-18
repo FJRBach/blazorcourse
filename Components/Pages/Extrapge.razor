@@ -1,0 +1,13 @@
+﻿@page "/test/{Categoria}/{Id:int?}"
+<h3>Extra page para parametro en page</h3>
+<h4>Detalle del Id como parametro: @Id</h4>
+<h5>La categoría actual es: @Categoria</h5>
+@code {
+	[Parameter]
+	public int?  Id { get; set; }  
+	
+	[Parameter]
+	public string Categoria { get; set; }
+
+
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\extrapge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\extrapge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T20:12:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extrapge.razor",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Extrapge.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Extrapge.razor",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Extrapge.razor",
+              "RelativeToolTip": "Components\\Pages\\Extrapge.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T20:09:45.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T20:06:59.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T20:06:58.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
