@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\extrapge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\extrapge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\directoriopersonas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\directoriopersonas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\componentesingular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\componentesingular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\modelos\\singular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:modelos\\singular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\componentedispositivo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\componentedispositivo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\modelos\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:modelos\\dispositivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABjAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DirectorioPersonas.razor",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\DirectorioPersonas.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\DirectorioPersonas.razor",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\DirectorioPersonas.razor",
+              "RelativeToolTip": "Components\\Pages\\DirectorioPersonas.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T20:12:54.426Z",
+              "WhenOpened": "2025-09-19T19:23:57.936Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Extrapge.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Extrapge.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Extrapge.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Extrapge.razor",
-              "RelativeToolTip": "Components\\Pages\\Extrapge.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ComponenteSingular.razor",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\ComponenteSingular.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ComponenteSingular.razor",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\ComponenteSingular.razor",
+              "RelativeToolTip": "Components\\Pages\\ComponenteSingular.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T20:09:45.184Z",
+              "WhenOpened": "2025-09-19T19:23:56.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T20:06:59.536Z",
+              "Title": "Singular.cs",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Modelos\\Singular.cs",
+              "RelativeDocumentMoniker": "Modelos\\Singular.cs",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Modelos\\Singular.cs",
+              "RelativeToolTip": "Modelos\\Singular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:23:52.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "Components\\Pages\\Counter.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ComponenteDispositivo.razor",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\ComponenteDispositivo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ComponenteDispositivo.razor",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\ComponenteDispositivo.razor",
+              "RelativeToolTip": "Components\\Pages\\ComponenteDispositivo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-18T20:06:58.523Z",
+              "WhenOpened": "2025-09-19T19:23:55.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dispositivo.cs",
+              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Modelos\\Dispositivo.cs",
+              "RelativeDocumentMoniker": "Modelos\\Dispositivo.cs",
+              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Modelos\\Dispositivo.cs",
+              "RelativeToolTip": "Modelos\\Dispositivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:23:52.03Z",
               "EditorCaption": ""
             }
           ]

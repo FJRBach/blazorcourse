@@ -1,0 +1,29 @@
+﻿@page "/error-demo"
+<h3>Manejo de errores</h3>
+
+@if (_hasError)
+{
+	<p style="color-red">Ocurrio un error durante la ejecución @mensajeError</p>
+}
+else 
+{
+	<button @onclick="ErrorProvocado">Generar error</button>
+}
+
+@code {
+	private bool _hasError = false;
+	private string mensajeError = "";
+
+	private void ErrorProvocado(){
+		try{
+			throw new InvalidOperationException("Este es un error controlado");
+		}
+		catch (Exception ex)
+		{
+			_hasError = true;
+			mensajeError = ex.Message;
+			throw;
+		}
+	}
+
+}

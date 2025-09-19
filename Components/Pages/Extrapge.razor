@@ -1,13 +1,55 @@
-﻿@page "/test/{Categoria}/{Id:int?}"
+﻿@* Navegar usando una category como parametro*@
+@page "/test/{Categoria}/{Id:int?}"
+
+@* Navegar sin colocar category *@
+@page "/test"  
+
+
+@inject NavigationManager Navigation
+@inject IConfiguration Configuration
+
+
 <h3>Extra page para parametro en page</h3>
 <h4>Detalle del Id como parametro: @Id</h4>
 <h5>La categoría actual es: @Categoria</h5>
+<br>
+<div class="card">
+	<div class="card-header">Manejo de URL api y configuraciones extras de appSettings</div>
+	<div class="card-body">
+		<p>La url de la API es: @UrlApi</p>
+		<h5>La característica está: @ActivarFeature</h5>
+	</div>
+</div>
+<br>
+<button @onclick="NavegarContador" class="btn btn-outline-primary">Ir al contador</button>
+
+@*
+	Sección de buttons para navegar
+*@ 
+<h3>Haz click en el botón de abajo, para navegar hacía el manejo de errores:</h3>
+<button @onclick="NavegarError" class="btn btn-secondary">Ir al try catch</button>
 @code {
 	[Parameter]
 	public int?  Id { get; set; }  
-	
+
 	[Parameter]
-	public string Categoria { get; set; }
+	public string? Categoria { get; set; }
 
+	private string? UrlApi;
+	private bool ActivarFeature;
+	protected override void OnInitialized()
+	{
+		UrlApi = Configuration["ConfiguracionesApp:UrlApi"];
+		ActivarFeature = bool.Parse(Configuration["ConfiguacionesApp:ActivarFeatures"]?? "true");
 
+	}
+
+	void NavegarContador() {
+		Navigation.NavigateTo("/Counter");
+	}
+
+	void NavegarError()
+	{
+		Navigation.NavigateTo("/error-demo");
+	}
 }

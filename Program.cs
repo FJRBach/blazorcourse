@@ -1,10 +1,28 @@
 using WebAppBach.Components;
+using WebAppBach.Repository;
+using WebAppBach.Repository.Interfaces;
+
+//En Blazor .NET 8, como en versiones anteriores, se pueden registrar servicios
+//en tres niveles:
+
+//Transitorio(Transient): Una nueva instancia del servicio es creada cada vez que
+//se requiere.
+//De Ámbito (Scoped): Se crea una instancia por cada solicitud (en Blazor Server es
+//por cada conexión, y en Blazor WebAssembly es por la vida útil de la sesión).
+//Singleton: Se crea una única instancia para toda la aplicación.
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveServerComponents();
+
+
+// Construcción de servicio singleton
+builder.Services.AddSingleton<IMyServices, MyService>();
+
+// Registro de servicio Scoped
+// builder.Services.AddSingleton<IOtherService, MyOtherService>();
 
 var app = builder.Build();
 

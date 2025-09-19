@@ -1,0 +1,14 @@
+﻿ @page "/injection"
+@using WebAppBach.Repository.Interfaces
+
+ @inject IMyServices miServicio
+
+<h3>Página para inyectar dependencias</h3>
+
+<p>@miServicio.GetMessage()</p>
+
+
+	@*Aquí se utilizan methods o properties del service inyectado*@
+@code {
+
+}

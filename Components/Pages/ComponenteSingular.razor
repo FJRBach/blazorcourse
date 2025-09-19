@@ -1,0 +1,14 @@
+﻿<h3>@Nombres @Apellido1 @Apellido2</h3>
+
+@FragmentDispositivo 
+
+@code {
+	[Parameter]
+	public string Nombres { get; set; }
+	[Parameter]
+	public string Apellido1 { get; set; }
+	[Parameter]
+	public string? Apellido2 { get; set; }
+	[Parameter]
+	public RenderFragment FragmentDispositivo { get; set; }
+}

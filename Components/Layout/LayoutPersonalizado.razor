@@ -1,0 +1,39 @@
+﻿@inherits LayoutComponentBase
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#">WebAppBach</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="counter">Contador <span class="sr-only">(Actualmente)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="weather">Tabla de temperatura</a>
+            </li>
+             <li class="nav-item">
+                <a class="nav-link" href="test">Extra page</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="injection">Inyección</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="listarelementos">Lista de elementos</a>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<div class="container">
+	<div class="row">
+		<div class="col-8 offset-4">
+			@Body
+		</div>
+	</div>
+</div>

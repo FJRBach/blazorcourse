@@ -78,3 +78,4 @@ C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\refint\WebAppBach.dll
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\WebAppBach.pdb
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\WebAppBach.genruntimeconfig.cache
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\ref\WebAppBach.dll
+C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\WebAppBach.sourcelink.json

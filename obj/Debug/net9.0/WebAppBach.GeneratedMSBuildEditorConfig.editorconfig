@@ -24,8 +24,28 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Layout/FormRegistro.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRm9ybVJlZ2lzdHJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Layout/LayoutPersonalizado.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTGF5b3V0UGVyc29uYWxpemFkby5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/ComponenteDispositivo.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnRlRGlzcG9zaXRpdm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/ComponenteSingular.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnRlU2luZ3VsYXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/DirectorioPersonas.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEaXJlY3RvcmlvUGVyc29uYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Error.razor]
@@ -38,6 +58,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/ListaElementos.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaXN0YUVsZW1lbnRvcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/PageInjectionD.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlSW5qZWN0aW9uRC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/TryCatchRazr.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUcnlDYXRjaFJhenIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Weather.razor]
