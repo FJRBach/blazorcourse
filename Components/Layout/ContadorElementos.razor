@@ -1,0 +1,25 @@
+﻿@inject IElementoStateService ElementoServicio
+
+<div class="alert alert-info">
+    <p>Total de elementos: </p><strong>@ElementoServicio.Elementos.Count()</strong>
+</div>
+
+@* 
+    En el sig code se cambia el estado y en base a los cambios que presente se realiza un conteo
+*@
+@code {
+    protected override void OnInitialized()
+    {
+        ElementoServicio.OnChange += StateHasChanged;
+    }
+
+    private async void OnStateHasChanged()
+    {
+        await InvokeAsync(StateHasChanged);
+    }
+
+    public void Dispose()
+    {
+        ElementoServicio.OnChange -= StateHasChanged;
+    }
+}

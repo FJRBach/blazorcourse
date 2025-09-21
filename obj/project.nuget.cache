@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "13b+mx4C5f0=",
+  "dgSpecHash": "PkHTmZ1q8DE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\WebAppBach.csproj",
+  "projectFilePath": "C:\\ci_fbach\\blazorcourse\\WebAppBach.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

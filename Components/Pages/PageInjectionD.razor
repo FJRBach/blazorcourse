@@ -1,14 +1,55 @@
 ﻿ @page "/injection"
 @using WebAppBach.Repository.Interfaces
 
- @inject IMyServices miServicio
+ @inject IMyServices miServicio 
 
 <h3>Página para inyectar dependencias</h3>
 
 <p>@miServicio.GetMessage()</p>
 
+<!-- Aquí inicia la injección de los methods declarados en IMyServices, con los datos que usa MyService-->
+
+<h4>Ventas de servicios actuales:</h4>
+
+@if (services == null)
+{
+	<p><em>Cargando productos</em></p>
+}
+else
+{
+    <div class="table-responsive-md">
+        <table class="table table-striped table-hover">
+            <thead class="table-dark">
+                <tr>
+                    <th scope="col">Número de registro</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Precio</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var service in services)
+                {
+                    <tr>
+                        <td>@service.Id</td>
+                        <td>@service.Name</td>
+                        <td>@service.Price</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+<!-- Injection section para API con base de datos-->
+
 
 	@*Aquí se utilizan methods o properties del service inyectado*@
 @code {
+	private IEnumerable<Service>? services;
+
+	protected override async Task OnInitializedAsync()
+	{
+		services = await miServicio.GetServicesAsync();
+	}
 
 }

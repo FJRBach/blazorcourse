@@ -5,14 +5,21 @@
 
 <PageTitle>Counter</PageTitle>
 
-<h1>Counter</h1>
-
-<p role="status">Current count: @currentCount</p>
-
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
-
-<h2 @onmouseover="IncrementCount">Desliza el cursor por aquí para sumar ¡Sin dar click!</h2>
-
+<div class="container position-absolute top-50 start-50 translate-middle">
+    <div class="card text-center">
+        <div class="card-header">
+            <h1>Counter</h1>
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">Contador actual:</h5>
+            <p role="status" class="card-text">@currentCount</p>
+    <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+    </div>
+        <div class="card-footer text-body-secondary">
+            <h2 @onmouseover="IncrementCount">Desliza el cursor por aquí para sumar ¡Sin dar click!</h2>
+        </div>
+    </div>
+</div>
 @code {
     private int currentCount = 0;
 

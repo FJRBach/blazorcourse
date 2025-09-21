@@ -1,6 +1,9 @@
 using WebAppBach.Components;
+using WebAppBach.Components.Services;
+using WebAppBach.Components.Services.Interfaces;
 using WebAppBach.Repository;
 using WebAppBach.Repository.Interfaces;
+
 
 //En Blazor .NET 8, como en versiones anteriores, se pueden registrar servicios
 //en tres niveles:
@@ -20,6 +23,9 @@ builder.Services.AddRazorComponents()
 
 // Construcción de servicio singleton
 builder.Services.AddSingleton<IMyServices, MyService>();
+
+builder.Services.AddSingleton<IElementoStateService, ElementoStateService>();
+
 
 // Registro de servicio Scoped
 // builder.Services.AddSingleton<IOtherService, MyOtherService>();
