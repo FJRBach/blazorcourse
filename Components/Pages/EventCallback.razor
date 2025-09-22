@@ -1,0 +1,37 @@
+﻿@page "/eventcallback"
+
+@*
+	Este componente page, tiene 2 parameters: ValorActual y OnValorCambiado
+*@
+
+<h3>EventCallback</h3>
+
+<p>Se inicia un contador en 0 cada que la page se recarga, dependiendo la acción de los botones, crecerá o disminuirá el valor actual </p>
+
+<button class="btn btn-primary" @onclick="Incrementar">Incrementar</button>
+
+<button class="btn btn-secondary" @onclick="Decrementar">Decrementar</button>
+
+<p>El valor actual de este bloque es de: <strong>@ValorActual</strong></p>
+
+@code {
+	[Parameter]
+	public int ValorActual { get; set; }
+	[Parameter]
+	public EventCallback<int> OnValorCambiado { get; set;  }
+
+	private void Incrementar()
+	{
+		ValorActual++;
+		//Notifica al padre por el EventCallBack
+		OnValorCambiado.InvokeAsync(ValorActual);
+	}
+
+	private void Decrementar()
+	{
+		ValorActual--;
+		OnValorCambiado.InvokeAsync(ValorActual);
+
+	}
+
+}

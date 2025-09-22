@@ -1,0 +1,13 @@
+﻿<div>
+	<h2>Componente Hijo</h2>
+	<p>Tema actual es: @Tema</p>
+	<p>El idioma actual es: @Idioma</p>
+</div>
+
+@code {
+	[CascadingParameter(Name = "TemaGlobal")]
+	public string Tema { get; set; }
+	[CascadingParameter(Name = "IdiomaGlobal")]
+	public string Idioma { get; set; }
+
+}

@@ -58,3 +58,18 @@ h1:focus {
 .form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
     text-align: start;
 }
+
+.tarjeta-header{
+    background-color: dimgrey;
+    text-align: center;
+    font-style: oblique;
+}
+
+.tarjeta-body{
+    background-color: azure;
+    font-size: 32px;
+}
+
+.tarjeta-footer{
+    background-color: aliceblue;
+}

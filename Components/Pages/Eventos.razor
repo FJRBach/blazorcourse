@@ -1,0 +1,41 @@
+﻿@page "/eventos"
+<h3>Eventos</h3>
+<button @onclick="OnClickButton">Accionar haciendo clic aquí</button>
+<p>@mensaje</p>
+
+<div class="card-footer text-body-secondary">
+	<h2 @onmouseover="IncrementCount">Se ha deslizado por aquí el mouse:<strong>@currentCount</strong> veces</h2>
+</div>
+
+<h4>Cambios en input</h4>
+<input type="text" @oninput="OnInputChange"/>
+<p>Valor actual: <strong>@valorInput</strong></p>
+
+<EventCallback></EventCallback>
+<a href="callback">Navegar a eventos del componente hijo de EventCallback</a>
+
+
+
+@code {
+
+	private string mensaje = "No se ha hecho clic aún";
+
+	private void OnClickButton()
+	{
+		mensaje = "Se ha hecho clic en el button";
+	}
+
+	private int currentCount = 0;
+
+	private void IncrementCount()
+	{
+		currentCount++;
+	}
+
+	private string valorInput = "";
+	// ChangeEventArgs = ch (se encarga de gestionar constantemente el cambio)
+	private void OnInputChange(ChangeEventArgs ch)
+	{
+		valorInput = ch.Value.ToString();
+	}
+}

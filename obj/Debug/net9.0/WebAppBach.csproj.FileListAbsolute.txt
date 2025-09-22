@@ -16,7 +16,6 @@ C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\scopedcss\Components\
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\scopedcss\bundle\WebAppBach.styles.css
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\scopedcss\projectbundle\WebAppBach.bundle.scp.css
-C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\compressed\9x1rt2o0jw-khy4lop6wu.gz
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\compressed\52vcvrl7rs-bqjiyaj88i.gz
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\compressed\iygzzbl80h-c2jlpeoesf.gz
 C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\compressed\nj0u1xky8r-erw9l3u2r3.gz
@@ -159,3 +158,4 @@ C:\ci_fbach\blazorcourse\obj\Debug\net9.0\refint\WebAppBach.dll
 C:\ci_fbach\blazorcourse\obj\Debug\net9.0\WebAppBach.pdb
 C:\ci_fbach\blazorcourse\obj\Debug\net9.0\WebAppBach.genruntimeconfig.cache
 C:\ci_fbach\blazorcourse\obj\Debug\net9.0\ref\WebAppBach.dll
+C:\Users\fbachomo\source\repos\WebAppBach\obj\Debug\net9.0\compressed\9x1rt2o0jw-2o1k0hzxvh.gz

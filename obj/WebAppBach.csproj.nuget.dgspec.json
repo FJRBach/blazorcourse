@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ci_fbach\\blazorcourse\\WebAppBach.csproj": {}
+    "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\WebAppBach.csproj": {}
   },
   "projects": {
-    "C:\\ci_fbach\\blazorcourse\\WebAppBach.csproj": {
+    "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\WebAppBach.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ci_fbach\\blazorcourse\\WebAppBach.csproj",
+        "projectUniqueName": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\WebAppBach.csproj",
         "projectName": "WebAppBach",
-        "projectPath": "C:\\ci_fbach\\blazorcourse\\WebAppBach.csproj",
-        "packagesPath": "C:\\Users\\Colibecas\\.nuget\\packages\\",
-        "outputPath": "C:\\ci_fbach\\blazorcourse\\obj\\",
+        "projectPath": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\WebAppBach.csproj",
+        "packagesPath": "C:\\Users\\fbachomo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Colibecas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\fbachomo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,8 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files\\dotnet\\library-packs": {}
         },
         "frameworks": {
           "net9.0": {
@@ -45,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -69,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppBach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ea82ae4d49645dd53a35f9a6fe5a32acbd8c921")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+805659dce4f5bae6bd1307309d1702f0159af7fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppBach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppBach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

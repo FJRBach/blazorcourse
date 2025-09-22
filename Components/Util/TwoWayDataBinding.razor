@@ -1,0 +1,11 @@
+﻿@page "/twoway"
+
+<h3>TwoWayDataBinding</h3>
+<input @bind="nombreUser"/>
+<p>Guarda el cambio con enter para ver el cambio</p>
+<p>El valor guardado es: @nombreUser</p>
+
+@code {
+	private string nombreUser="FrankBach";
+
+}

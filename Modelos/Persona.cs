@@ -1,6 +1,6 @@
 ﻿namespace WebAppBach.Modelos
 {
-    public class Singular
+    public class Persona
     {
         public string Nombres { get; set; }
 

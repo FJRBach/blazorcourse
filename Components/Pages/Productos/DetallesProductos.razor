@@ -1,0 +1,13 @@
+﻿<h3>Detalles del Producto</h3>
+
+<div class="container-sm">
+	<p><strong>Nombre: </strong> @Producto.Nombre</p>
+	<p><strong>Nombre: </strong> @Producto.Descripcion</p>
+	<p><strong>Nombre: </strong> @Producto.precio</p>
+</div>
+
+@code {
+	[Parameter]
+	public Producto Producto { get; set; }
+
+}

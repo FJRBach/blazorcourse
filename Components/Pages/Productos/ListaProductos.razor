@@ -1,0 +1,18 @@
+﻿@page "/lista-productos"
+<div>
+	<h3>Lista de Productos</h3>
+	@foreach (var producto in Productos)
+	{
+		<ProductCard PProducto="producto"></ProductCard>
+	}
+</div>
+
+@code {
+	private List<Producto> Productos { get; set; } = new List<Producto>
+	{
+		new Producto { Id= 1, Nombre = "Laptop", Descripcion= "i5 1135g7, 16GB RAM DDR4 (3200mhz), 1TB M.2, Nvidia 1650 GTX-Q", precio = 18000},
+		new Producto { Id= 2, Nombre = "Laptop", Descripcion= "i5 1135g7, 16GB RAM DDR4 (3200mhz), 1TB M.2, Nvidia 1650 GTX-Q", precio = 18000},
+		new Producto { Id= 3, Nombre = "Laptop", Descripcion= "i5 14037H, 32GB RAM DDR5, 1TB M.2, RTX 4050", precio = 38000}
+	};
+
+}

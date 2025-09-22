@@ -1,0 +1,52 @@
+﻿@page "/registrar-productos"
+
+<h3>Registrar productos en formulario:</h3>
+		<!---- DataAnnotationsValidator activa las validaciones, OnValidSubmit verifica las validaciones ----->
+<EditForm Model="producto" OnValidSubmit="@GuardarProducto">
+	<DataAnnotationsValidator/>
+	<ValidationSummary/>
+	<div class="container">
+		<div class="row">
+			<div class="col-8 offset-2">
+				<div class="form-label">
+					<label for="nombre">Nombre del producto: </label>
+					<InputText id="nombre" @bind-Value="producto.Nombre" class="form-control" placeholder="Ingresa el nombre">
+					</InputText>
+				</div>
+			</div>
+		</div>
+	</div>
+</EditForm>
+			
+@code {
+	private Producto producto = new Producto();
+
+	private void GuardarProducto()
+	/// Logic to set data
+	{
+		Console.WriteLine("Producto guardado");
+	}
+
+	public class Producto
+	{
+		[Required(ErrorMessage = "El nombre es obligatorio")]
+		public string Nombre { get; set; }
+
+		public string Descripcion { get; set; }
+		[Range(0.01, 9999.99, ErrorMessage="El precio debe estar entre 0.01 y 9999.99")]
+		public decimal Precio { get; set; }
+
+		[Range(0, 1000, ErrorMessage = "La cantidad debe estar entre 0 y 1000")]
+		public int CantidadStock { get; set; }
+
+		public DateTime FechaLanzamiento { get; set; }
+
+		[Required(ErrorMessage = "Debe seleccionar una categoría")]
+		public string Categoria { get; set; }
+
+		public bool Disponible { get; set; }
+
+		[Required(ErrorMessage = "Debe de proporcionar una URL válida")]
+		public string ImagenUrl { get; set; }
+	}
+}

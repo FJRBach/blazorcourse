@@ -1,0 +1,46 @@
+﻿@page "/lista-personas"
+<h3>Lista completa de personas registradas</h3>
+
+<ul>
+	@foreach (var persona in Personas)
+	{
+		<li>
+			@persona.Nombres @persona.Apellido1 @persona.Apellido2
+		</li>
+	}
+
+</ul>
+
+<WebAppBach.Components.Util.TwoWayDataBinding></WebAppBach.Components.Util.TwoWayDataBinding>
+<hr />
+<WebAppBach.Components.Forms.FormRegister></WebAppBach.Components.Forms.FormRegister>
+@*
+<div class="row">
+	@foreach (var persona in Personas)
+	{
+		<div class="col-4">
+			<ComponenteSingular Nombres="@persona.Nombres" Apellido1="@persona.Apellido1", Apellido2="@persona.Apellido2">
+				<FragmentDispositivo>
+					@if (persona.TipoDispositivo.Count > 0)
+					{
+						<h3>Direcciones</h3>
+						@foreach (var dispositivo in persona.TipoDispositivo)
+						{
+							<ComponenteDispositivo Dispositivo="dispositivo"></ComponenteDispositivo> 
+						}
+					}
+				</FragmentDispositivo>
+			</ComponenteSingular>
+		</div>
+	}
+</div>
+*@
+
+@code {
+	private List<Persona> Personas = new List<Persona>
+	{
+		new Persona {Nombres="Juan", Apellido1="Perez", Apellido2="Cabrera", TipoDispositivo="Celular" },
+		new Persona {Nombres="Carlos", Apellido1="Suarez", Apellido2="Lopez", TipoDispositivo="Computadora de escritorio" },
+		new Persona {Nombres="Juan", Apellido1="Rodriguez", Apellido2="Tovar", TipoDispositivo="Laptop" }
+	};
+}

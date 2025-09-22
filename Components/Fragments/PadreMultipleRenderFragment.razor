@@ -1,0 +1,35 @@
+﻿@page "/multiple-renderfragment"
+@inject NavigationManager Navigation
+
+<h3>Padre MultipleRenderFragment</h3>
+<p>Aquí es del padre</p>
+<CompRenderFragment>
+	<Encabezado>
+		<h1>Título de la tarjeta</h1>
+	</Encabezado>
+	<Cuerpo>
+		<p>Contenido del cuerpo de la tarjeta</p>
+	</Cuerpo>
+	<PieDePagina>
+		<button class="btn btn-secondary">
+			Guardar 
+		</button>
+	</PieDePagina>
+</CompRenderFragment>
+<br />
+<button class="btn btn-success" @onclick="NavegarAProductos"> Ir a productos
+</button>
+<Button class="btn btn-secondary" @onclick="NavegarACascada"> Navega a Tema Padre </Button>
+
+@code 
+{
+	private void NavegarAProductos()
+	{
+		Navigation.NavigateTo("/lista-productos");
+	}
+
+	private void NavegarACascada()
+	{
+		Navigation.NavigateTo("/tema-padre");
+	}
+}
