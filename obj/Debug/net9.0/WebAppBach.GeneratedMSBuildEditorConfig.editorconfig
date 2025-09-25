@@ -1,157 +1,177 @@
 is_global = true
 build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebAppBach
 build_property.RootNamespace = WebAppBach
-build_property.ProjectDir = C:\Users\fbachomo\source\repos\WebAppBach\
+build_property.ProjectDir = C:\ci_fbach\blazorcourse\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\fbachomo\source\repos\WebAppBach
+build_property.MSBuildProjectDirectory = C:\ci_fbach\blazorcourse
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/App.razor]
+[C:/ci_fbach/blazorcourse/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/AttributeSplatting/CompButton.razor]
+[C:/ci_fbach/blazorcourse/Components/AttributeSplatting/CompButton.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBdHRyaWJ1dGVTcGxhdHRpbmdcQ29tcEJ1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Component.razor]
+[C:/ci_fbach/blazorcourse/Components/Component.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDb21wb25lbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Forms/FormBlazor.razor]
+[C:/ci_fbach/blazorcourse/Components/Forms/FormBlazor.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGb3Jtc1xGb3JtQmxhem9yLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Forms/FormRegister.razor]
+[C:/ci_fbach/blazorcourse/Components/Forms/FormRegister.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGb3Jtc1xGb3JtUmVnaXN0ZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Fragments/CompRenderFragment.razor]
+[C:/ci_fbach/blazorcourse/Components/Fragments/CompRenderFragment.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGcmFnbWVudHNcQ29tcFJlbmRlckZyYWdtZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Fragments/PadreMultipleRenderFragment.razor]
+[C:/ci_fbach/blazorcourse/Components/Fragments/PadreMultipleRenderFragment.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGcmFnbWVudHNcUGFkcmVNdWx0aXBsZVJlbmRlckZyYWdtZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Layout/ContadorElementos.razor]
+[C:/ci_fbach/blazorcourse/Components/Layout/Component.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ29tcG9uZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ci_fbach/blazorcourse/Components/Layout/ContadorElementos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcQ29udGFkb3JFbGVtZW50b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Layout/LayoutPersonalizado.razor]
+[C:/ci_fbach/blazorcourse/Components/Layout/LayoutPersonalizado.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTGF5b3V0UGVyc29uYWxpemFkby5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Callback.razor]
+[C:/ci_fbach/blazorcourse/Components/Layout/LoginDisplay.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTG9naW5EaXNwbGF5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ci_fbach/blazorcourse/Components/Pages/Callback.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsYmFjay5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Cascada/ComponenteHijo.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Cascada/ComponenteHijo.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXNjYWRhXENvbXBvbmVudGVIaWpvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Cascada/ThemePadre.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Cascada/ThemePadre.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXNjYWRhXFRoZW1lUGFkcmUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/ComponenteDispositivo.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/ComponenteDispositivo.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnRlRGlzcG9zaXRpdm8ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/ComponenteSingular.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/ComponenteSingular.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb21wb25lbnRlU2luZ3VsYXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Counter.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Error.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/EventCallback.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/EventCallback.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudENhbGxiYWNrLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Eventos.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Eventos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudG9zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Extrapge.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Extrapge.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHRyYXBnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Home.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/ListaCompletaPersonas.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/ListaCompletaPersonas.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaXN0YUNvbXBsZXRhUGVyc29uYXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/ListaElementos.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/ListaElementos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMaXN0YUVsZW1lbnRvcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/PageInjectionD.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Login/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xMb2dpblxMb2dpblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/ci_fbach/blazorcourse/Components/Pages/PageInjectionD.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYWdlSW5qZWN0aW9uRC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Productos/DetallesProductos.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Productos/DetallesProductos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0b3NcRGV0YWxsZXNQcm9kdWN0b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Productos/ListaProductos.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Productos/ListaProductos.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0b3NcTGlzdGFQcm9kdWN0b3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Productos/ProductCard.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Productos/ProductCard.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0b3NcUHJvZHVjdENhcmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/TryCatchRazr.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/TryCatchRazr.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUcnlDYXRjaFJhenIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Pages/Weather.razor]
+[C:/ci_fbach/blazorcourse/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Routes.razor]
+[C:/ci_fbach/blazorcourse/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Util/TwoWayDataBinding.razor]
+[C:/ci_fbach/blazorcourse/Components/Util/TwoWayDataBinding.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVdGlsXFR3b1dheURhdGFCaW5kaW5nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/_Imports.razor]
+[C:/ci_fbach/blazorcourse/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/_Imports.razor]
+[C:/ci_fbach/blazorcourse/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Layout/MainLayout.razor]
+[C:/ci_fbach/blazorcourse/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-7b9q3iqls2
 
-[C:/Users/fbachomo/source/repos/WebAppBach/Components/Layout/NavMenu.razor]
+[C:/ci_fbach/blazorcourse/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-dtf7hp0tra

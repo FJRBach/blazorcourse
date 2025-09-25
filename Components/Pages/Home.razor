@@ -1,25 +1,31 @@
 ﻿@inject NavigationManager Navigation
+@rendermode InteractiveServer
 @page "/"
-
+@attribute [AllowAnonymous]
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+<br />
+<hr />
+<AuthorizeView>
+    <Authorized>
+        <WebAppBach.Components.AttributeSplatting.CompButton Texto="Registrar productos" @attributes="atributosBoton" @onclick="NavegarAForm" />
+    </Authorized>
+</AuthorizeView>
 
-<WebAppBach.Components.AttributeSplatting.CompButton Texto="Aceptar" @attributes="atributosBoton" @onclick="NavegarAForm"/>
-
-@code 
+@code
 {
-	public Dictionary<string, object> atributosBoton = new Dictionary<string, object>
-	{
-		{"class", "btn btn-success"},
-		{"style", "font-size: 18px"}
-	};
+    public Dictionary<string, object> atributosBoton = new Dictionary<string, object>
+    {
+        {"class", "btn btn-primary"},
+        {"style", "font-size: 18px"}
+    };
 
-	private void NavegarAForm()
-	{
-		Navigation.NavigateTo("/registrar-productos");
-	}
+    private void NavegarAForm()
+    {
+        Navigation.NavigateTo("/registrar-productos");
+    }
 }

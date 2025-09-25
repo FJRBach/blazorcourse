@@ -1,6 +1,6 @@
 ﻿ @page "/injection"
 @using WebAppBach.Repository.Interfaces
-
+@attribute [Authorize]
  @inject IMyServices miServicio 
 
 <h3>Página para inyectar dependencias</h3>

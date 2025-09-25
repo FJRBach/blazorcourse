@@ -1,13 +1,13 @@
 ﻿<h3>Múltiple renderFragment (soy el hijo)</h3>
 
-<div class="card">
-	<div class="tarjeta-header">
+<div class="card shadow-sm">
+	<div class="card-header">
 		@Encabezado
 	</div>
-	<div class="tarjeta-body">
+	<div class="card-body">
 		@Cuerpo
 	</div>
-	<div class="tarjeta-footer">
+	<div class="card-footer">
 		@PieDePagina
 	</div>
 </div>
@@ -19,5 +19,4 @@
 	public RenderFragment? Cuerpo { get; set; }
 	[Parameter]
 	public RenderFragment? PieDePagina { get; set; }
-
 }

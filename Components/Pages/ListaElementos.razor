@@ -1,5 +1,6 @@
 ﻿@page "/listarelementos"
-
+@rendermode InteractiveServer 
+@attribute [Authorize]
 @inject IElementoStateService ElementoServicio
 
 <h3>En esta page se listan elementos</h3>

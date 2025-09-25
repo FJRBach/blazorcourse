@@ -1,5 +1,5 @@
 ﻿@page "/registrar-productos"
-
+@attribute [Authorize]
 <h3>Registrar productos en formulario:</h3>
 		<!---- DataAnnotationsValidator activa las validaciones, OnValidSubmit verifica las validaciones ----->
 <EditForm Model="producto" OnValidSubmit="@GuardarProducto">
@@ -13,13 +13,78 @@
 					<InputText id="nombre" @bind-Value="producto.Nombre" class="form-control" placeholder="Ingresa el nombre">
 					</InputText>
 				</div>
+
+				<div class="form-label">
+					<label for="descripcion">Descripción del producto: </label>
+					<InputTextArea id="descripcion" @bind-Value="producto.Descripcion" class="form-control" placeholder="Ingresa la descripción del producto">
+					</InputTextArea>
+				</div>
+
+				<div class="form-label">
+					<label for="precio">Precio del producto: </label>
+					<InputNumber id="precio" @bind-Value="producto.Precio" class="form-control" placeholder="Precio del producto">
+					</InputNumber>
+				</div>
+				<div class="form-label">
+					<label for="cantidad">Cantidad de producto: </label>
+					<InputNumber id="cantidad" @bind-Value="producto.CantidadStock" class="form-control" placeholder="Ingresa la cantidad del producto">
+					</InputNumber>
+				</div>
+
+				<div class="form-label">
+					<label for="fecha">Fecha de lanzamiento del producto: </label>
+					<InputDate id="fecha" @bind-Value="producto.FechaLanzamiento"
+					class="form-control" placeholder="Ingresa la fecha en que se lanzó el producto">
+					</InputDate>
+				</div>
+
+				<div class="form-label">
+					<label for="categoria">Categoría</label>
+					<InputSelect id="categoria" @bind-Value="producto.Categoria"
+							   class="form-control" placeholder="Ingresa la categoría del producto">
+						<option value="">Seleccionar categoría del producto:</option>
+						<option value="Electronica">Electrónica</option>
+						<option value="Calzado">Calzado</option>
+						<option value="Hogar">Hogar</option>
+						<option value="Ropa">Ropa</option>
+					</InputSelect>
+				</div>
+
+				<div class="form-label">
+					<label for="disponible">Disponibilidad del producto: </label>
+					<InputCheckbox id="disponible" @bind-Value="producto.Disponible">
+					</InputCheckbox>
+				</div>
+
+				<div class="form-label">
+					<label for="urlimg">Fecha de lanzamiento del producto: </label>
+					<InputText id="urlimg" @bind-Value="producto.ImagenUrl"
+							   class="form-control" placeholder="Ingresa la URL de la imagen del producto">
+					</InputText>
+				</div>
+
+				<div>
+					<label for="archivo">Subir archivo (imagen):</label>
+					<InputFile OnChange="SubirArchivo">
+						@if (!string.IsNullOrEmpty(producto.NombreArchivo))
+						{
+							<p>Archivo cargado: @producto.NombreArchivo</p>
+						}
+					</InputFile>
+				</div>
+
+				<br />
+				<button type="submit" class="btn btn-primary">
+					Guardar producto
+				</button>
 			</div>
 		</div>
 	</div>
 </EditForm>
-			
+
 @code {
 	private Producto producto = new Producto();
+	private IBrowserFile archivoSubido;
 
 	private void GuardarProducto()
 	/// Logic to set data
@@ -39,7 +104,10 @@
 		[Range(0, 1000, ErrorMessage = "La cantidad debe estar entre 0 y 1000")]
 		public int CantidadStock { get; set; }
 
+		[Required(ErrorMessage = "La fecha de lanzamiento es obligatoria.")]
+		[Range(typeof(DateTime), "1/1/1940", "1/1/2099", ErrorMessage = "El año debe ser a partir de 1940.")]
 		public DateTime FechaLanzamiento { get; set; }
+
 
 		[Required(ErrorMessage = "Debe seleccionar una categoría")]
 		public string Categoria { get; set; }
@@ -48,5 +116,19 @@
 
 		[Required(ErrorMessage = "Debe de proporcionar una URL válida")]
 		public string ImagenUrl { get; set; }
+
+		public string NombreArchivo { get; set; }
 	}
+
+	private async Task SubirArchivo(InputFileChangeEventArgs e)
+	{
+		archivoSubido = e.File;
+		var buffer = new Byte[archivoSubido.Size];
+		await archivoSubido.OpenReadStream().ReadAsync(buffer);
+
+		producto.NombreArchivo = archivoSubido.Name;
+
+		// Se puede procesar el archivo para subirlo al server
+	}
+
 }

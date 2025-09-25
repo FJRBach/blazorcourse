@@ -73,3 +73,24 @@ h1:focus {
 .tarjeta-footer{
     background-color: aliceblue;
 }
+
+.card-header {
+    background-color: #f8f9fa; /* Un gris muy claro para el encabezado */
+    border-bottom: 1px solid #dee2e6;
+    font-weight: 500;
+}
+
+.card-footer {
+    background-color: #f8f9fa; /* Mismo color que el header para simetría */
+    border-top: 1px solid #dee2e6;
+}
+
+.card.shadow-sm {
+    border: none; 
+    transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+    .card.shadow-sm:hover {
+        transform: translateY(-5px); /* Efecto de "levantar" la tarjeta al pasar el mouse */
+        box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+    }

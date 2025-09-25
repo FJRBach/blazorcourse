@@ -1,21 +1,29 @@
 ﻿@page "/multiple-renderfragment"
 @inject NavigationManager Navigation
-
+<div class="container mt-4">
 <h3>Padre MultipleRenderFragment</h3>
 <p>Aquí es del padre</p>
 <CompRenderFragment>
-	<Encabezado>
-		<h1>Título de la tarjeta</h1>
-	</Encabezado>
-	<Cuerpo>
-		<p>Contenido del cuerpo de la tarjeta</p>
-	</Cuerpo>
-	<PieDePagina>
-		<button class="btn btn-secondary">
-			Guardar 
-		</button>
-	</PieDePagina>
+    <Encabezado>
+        <h5 class="card-title mb-0">Se permite reutilizar este componente (hijo)</h5>
+    </Encabezado>
+    <Cuerpo>
+        <p class="card-text">
+            El componente <strong>hijo (CompRenderFragment)</strong> actúa como una plantilla o un esqueleto reutilizable. Define una estructura (en este caso, una tarjeta con encabezado, cuerpo y pie), pero no sabe qué contenido irá dentro de esas secciones. Para solucionar esto, expone "espacios vacíos" o marcadores de posición llamados <strong>RenderFragment</strong>.
+        </p>
+        <p class="card-text">
+            En resumen, <strong>el hijo define el "dónde" (la estructura) y el padre define el "qué" (el contenido)</strong>.<br /> Esto permite reutilizar el componente en cualquier lugar, pasándole siempre un contenido distinto.
+        </p>
+    </Cuerpo>
+    <PieDePagina>
+        <div class="d-flex justify-content-end">
+            <button class="btn btn-primary">
+                Guardar
+            </button>
+        </div>
+    </PieDePagina>
 </CompRenderFragment>
+</div>
 <br />
 <button class="btn btn-success" @onclick="NavegarAProductos"> Ir a productos
 </button>

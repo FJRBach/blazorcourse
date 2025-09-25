@@ -1,4 +1,6 @@
 ﻿@page "/lista-personas"
+@attribute [Authorize]
+@rendermode InteractiveServer
 <h3>Lista completa de personas registradas</h3>
 
 <ul>
@@ -10,10 +12,9 @@
 	}
 
 </ul>
-
+<hr />
 <WebAppBach.Components.Util.TwoWayDataBinding></WebAppBach.Components.Util.TwoWayDataBinding>
 <hr />
-<WebAppBach.Components.Forms.FormRegister></WebAppBach.Components.Forms.FormRegister>
 @*
 <div class="row">
 	@foreach (var persona in Personas)

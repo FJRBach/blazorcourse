@@ -1,74 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\",
+  "WorkspaceRootPath": "C:\\ci_fbach\\blazorcourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\forms\\formblazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\forms\\formblazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\forms\\formblazor.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\forms\\formregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\forms\\formregister.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\attributesplatting\\compbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\attributesplatting\\compbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\trycatchrazr.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\trycatchrazr.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\extrapge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\pageinjectiond.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\pageinjectiond.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\listaelementos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\listacompletapersonas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\listacompletapersonas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\extrapge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\extrapge.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\cascada\\themepadre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\cascada\\themepadre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\eventcallback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\eventcallback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\cascada\\componentehijo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\cascada\\componentehijo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\componentesingular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\componentesingular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\componentesingular.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\fragments\\padremultiplerenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\fragments\\padremultiplerenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\componentedispositivo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\componentedispositivo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\productos\\listaproductos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\callback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\callback.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\productos\\listaproductos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\productos\\listaproductos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\productos\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\productos\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:modelos\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\pages\\productos\\detallesproductos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\productos\\detallesproductos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\productos\\detallesproductos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\productos\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\productos\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\fragments\\comprenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\fragments\\comprenderfragment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\attributesplatting\\compbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\attributesplatting\\compbutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\users\\fbachomo\\source\\repos\\webappbach\\components\\util\\twowaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\util\\twowaydatabinding.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\cascada\\themepadre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\cascada\\themepadre.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\cascada\\componentehijo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\cascada\\componentehijo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\login\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\login\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|c:\\ci_fbach\\blazorcourse\\components\\pages\\eventos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{34D4DAFF-B63D-4EC6-A2B4-AD42237504B0}|WebAppBach.csproj|solutionrelative:components\\pages\\eventos.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,228 +98,272 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormBlazor.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Forms\\FormBlazor.razor",
-              "RelativeDocumentMoniker": "Components\\Forms\\FormBlazor.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Forms\\FormBlazor.razor",
-              "RelativeToolTip": "Components\\Forms\\FormBlazor.razor",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "EventCallback.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\EventCallback.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\EventCallback.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\EventCallback.razor",
+              "RelativeToolTip": "Components\\Pages\\EventCallback.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T19:37:44.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:04:11.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormRegister.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Forms\\FormRegister.razor",
-              "RelativeDocumentMoniker": "Components\\Forms\\FormRegister.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Forms\\FormRegister.razor",
-              "RelativeToolTip": "Components\\Forms\\FormRegister.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "Extrapge.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Extrapge.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Extrapge.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Extrapge.razor",
+              "RelativeToolTip": "Components\\Pages\\Extrapge.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T19:37:31.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:03:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaCompletaPersonas.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ListaCompletaPersonas.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ListaCompletaPersonas.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ListaCompletaPersonas.razor",
+              "RelativeToolTip": "Components\\Pages\\ListaCompletaPersonas.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:03:20.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaElementos.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ListaElementos.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ListaElementos.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ListaElementos.razor",
+              "RelativeToolTip": "Components\\Pages\\ListaElementos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:03:27.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PageInjectionD.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\PageInjectionD.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\PageInjectionD.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\PageInjectionD.razor",
+              "RelativeToolTip": "Components\\Pages\\PageInjectionD.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:03:32.136Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Home.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T19:21:11.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:03:45.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CompButton.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\AttributeSplatting\\CompButton.razor",
-              "RelativeDocumentMoniker": "Components\\AttributeSplatting\\CompButton.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\AttributeSplatting\\CompButton.razor",
-              "RelativeToolTip": "Components\\AttributeSplatting\\CompButton.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormBlazor.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Forms\\FormBlazor.razor",
+              "RelativeDocumentMoniker": "Components\\Forms\\FormBlazor.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Forms\\FormBlazor.razor",
+              "RelativeToolTip": "Components\\Forms\\FormBlazor.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T19:16:31.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ComponenteHijo.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Cascada\\ComponenteHijo.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
-              "RelativeToolTip": "Components\\Pages\\Cascada\\ComponenteHijo.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T18:48:35.159Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ThemePadre.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Cascada\\ThemePadre.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Cascada\\ThemePadre.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Cascada\\ThemePadre.razor",
-              "RelativeToolTip": "Components\\Pages\\Cascada\\ThemePadre.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T18:47:30.298Z",
+              "WhenOpened": "2025-09-25T03:09:27.395Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ListaProductos.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Productos\\ListaProductos.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Productos\\ListaProductos.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Productos\\ListaProductos.razor",
-              "RelativeToolTip": "Components\\Pages\\Productos\\ListaProductos.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T18:13:10.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:04:14.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TryCatchRazr.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\TryCatchRazr.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\TryCatchRazr.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\TryCatchRazr.razor",
+              "RelativeToolTip": "Components\\Pages\\TryCatchRazr.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:03:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:03:37.005Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "ProductCard.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Productos\\ProductCard.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Productos\\ProductCard.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Productos\\ProductCard.razor",
-              "RelativeToolTip": "Components\\Pages\\Productos\\ProductCard.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Components\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T18:10:06.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "DetallesProductos.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Productos\\DetallesProductos.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Productos\\DetallesProductos.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Productos\\DetallesProductos.razor",
-              "RelativeToolTip": "Components\\Pages\\Productos\\DetallesProductos.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T18:06:26.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Modelos\\Producto.cs",
-              "RelativeDocumentMoniker": "Modelos\\Producto.cs",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Modelos\\Producto.cs",
-              "RelativeToolTip": "Modelos\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T18:05:33.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:05:41.766Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\wwwroot\\app.css",
-              "RelativeToolTip": "wwwroot\\app.css",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-09-22T17:49:41.492Z",
-              "EditorCaption": ""
+              "Title": "ComponenteSingular.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ComponenteSingular.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ComponenteSingular.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ComponenteSingular.razor",
+              "RelativeToolTip": "Components\\Pages\\ComponenteSingular.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:04:21.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CompRenderFragment.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Fragments\\CompRenderFragment.razor",
-              "RelativeDocumentMoniker": "Components\\Fragments\\CompRenderFragment.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Fragments\\CompRenderFragment.razor",
-              "RelativeToolTip": "Components\\Fragments\\CompRenderFragment.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "ComponenteDispositivo.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ComponenteDispositivo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\ComponenteDispositivo.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\ComponenteDispositivo.razor",
+              "RelativeToolTip": "Components\\Pages\\ComponenteDispositivo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T17:30:36.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:04:35.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PadreMultipleRenderFragment.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Fragments\\PadreMultipleRenderFragment.razor",
-              "RelativeDocumentMoniker": "Components\\Fragments\\PadreMultipleRenderFragment.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Fragments\\PadreMultipleRenderFragment.razor",
-              "RelativeToolTip": "Components\\Fragments\\PadreMultipleRenderFragment.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Callback.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Callback.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Callback.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Callback.razor",
+              "RelativeToolTip": "Components\\Pages\\Callback.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T17:33:13.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Extrapge.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Extrapge.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\Extrapge.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\Extrapge.razor",
-              "RelativeToolTip": "Components\\Pages\\Extrapge.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T18:23:56.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TwoWayDataBinding.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Util\\TwoWayDataBinding.razor",
-              "RelativeDocumentMoniker": "Components\\Util\\TwoWayDataBinding.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Util\\TwoWayDataBinding.razor",
-              "RelativeToolTip": "Components\\Util\\TwoWayDataBinding.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T16:59:55.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:04:25.924Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "Components\\Layout\\NavMenu.razor",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAEYAAAA/AAAAAAAAAA==",
+              "Title": "ListaProductos.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Productos\\ListaProductos.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Productos\\ListaProductos.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Productos\\ListaProductos.razor",
+              "RelativeToolTip": "Components\\Pages\\Productos\\ListaProductos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T16:50:38.899Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:08:25.393Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComponenteSingular.razor",
-              "DocumentMoniker": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\ComponenteSingular.razor",
-              "RelativeDocumentMoniker": "Components\\Pages\\ComponenteSingular.razor",
-              "ToolTip": "C:\\Users\\fbachomo\\source\\repos\\WebAppBach\\Components\\Pages\\ComponenteSingular.razor",
-              "RelativeToolTip": "Components\\Pages\\ComponenteSingular.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "DetallesProductos.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Productos\\DetallesProductos.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Productos\\DetallesProductos.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Productos\\DetallesProductos.razor",
+              "RelativeToolTip": "Components\\Pages\\Productos\\DetallesProductos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T16:45:50.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T03:08:31.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCard.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Productos\\ProductCard.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Productos\\ProductCard.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Productos\\ProductCard.razor",
+              "RelativeToolTip": "Components\\Pages\\Productos\\ProductCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:08:20.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CompButton.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\AttributeSplatting\\CompButton.razor",
+              "RelativeDocumentMoniker": "Components\\AttributeSplatting\\CompButton.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\AttributeSplatting\\CompButton.razor",
+              "RelativeToolTip": "Components\\AttributeSplatting\\CompButton.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:07:52.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginPage.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Login\\LoginPage.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Login\\LoginPage.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Login\\LoginPage.razor",
+              "RelativeToolTip": "Components\\Pages\\Login\\LoginPage.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:04:39.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ComponenteHijo.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "RelativeToolTip": "Components\\Pages\\Cascada\\ComponenteHijo.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:04:43.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ThemePadre.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Cascada\\ThemePadre.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Cascada\\ThemePadre.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Cascada\\ThemePadre.razor",
+              "RelativeToolTip": "Components\\Pages\\Cascada\\ThemePadre.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:04:44.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Eventos.razor",
+              "DocumentMoniker": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Eventos.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Eventos.razor",
+              "ToolTip": "C:\\ci_fbach\\blazorcourse\\Components\\Pages\\Eventos.razor",
+              "RelativeToolTip": "Components\\Pages\\Eventos.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-25T03:04:06.435Z"
             }
           ]
         }
